@@ -14,7 +14,7 @@ Previously, I worked with languages like Perl, PHP, Java and ActionScript. But s
 
 I like Ruby so much that I started teaching it to beginners. First through RailsGirls workshops in Hamburg and Barcelona (where I also organized both). Later through periodical meetups in Barcelona and as a (paid) teacher and mentor in the Ironhack Web Development Bootcamp. I am also one of the organizers of [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails), the local Ruby User Group.
 
-At the moment I do work for SolarisBank <https://solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
+At the moment I do work for SolarisBank <https://www.solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
 
 
 ## In case you want to hire me
