@@ -14,7 +14,7 @@ Previously, I worked with languages like Perl, PHP, Java and ActionScript. But s
 
 I like Ruby so much that I started teaching it to beginners. First through RailsGirls workshops in Hamburg and Barcelona (where I also organized both). Later through periodical meetups in Barcelona and as a (paid) teacher and mentor in the Ironhack Web Development Bootcamp. I am also one of the organizers of [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails), the local Ruby User Group.
 
-At the moment I do work for SolarisBank <https://www.solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
+At the moment I do work for SolarisBank <https://solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
 
 
 ## In case you want to hire me
@@ -23,8 +23,9 @@ I enjoy working in small companies with small development teams. This setup prom
 
 I do consider myself to be a product developer thinking of all parts of an implementation and not only 'my code'. I prefer to write simple, maintainable code and to find a good, pragmatic solution, instead of a complex one. When layers of abstractions or optimizations become necessary, they can be added at the right moment.
 
-I am happy to work in a fully remote position at the moment. I don't plan to travel during work weeks a lot. But I want to take advantage of [my Bulli](https://www.dropbox.com/s/t503wgvu218qtns/20160424_075917.jpg?dl=0 "Montsec, Spain") and sit besides a beach (like right now) or in the mountains from time to time - when there is a fast internet connection available.
+I am a great communicator. Spreading information and connecting people comes natural to me. I do push my colleagues to share more. Be it through the group chat or in pull request descriptions or by creating new tickets. When I am in the office, I use the opportunity to connect with people outside of my team to learn more about the business in general. When I am remote, video chats help discussing complex matters.
 
+I am happy to work in a fully remote position. At home in Barcelona I have a great setup with standing desk, 4k screen, 200 MBit fibre connection and a sunny balcony. Now that summer is approaching I want to take advantage of living in Spain with a ‘Bulli’ and work [besides a beach](bulli_beach.jpg title="Playa de las Hurnas, Spain") or [in the mountains](bulli_montsec.jpg title="Montsec, Spain") from time to time - when there is a fast internet connection available.
 
 ## Most challenging development projects
 
@@ -51,7 +52,7 @@ I am happy to work in a fully remote position at the moment. I don't plan to tra
   - challenging because of: development of the whole feature, finding a maintainable, fast solution without increasing the technical complexity of the whole project
 
 ### solarisBank: ...?
-  - I can't tell you yet, but I am sure big challenges are ahead ;-)
+  - until now the banking regulations are the challenge, but we are working in some great services... ;-)
 
 
 ## Links
