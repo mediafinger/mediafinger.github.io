@@ -6,7 +6,7 @@ Born and raised in a small town in the west of Germany, I moved to Hamburg to st
 
 After a year long break in which I studied in Bristol and lived and traveled in and around Vancouver, I returned to Hamburg to finish my Diploma (closer to the Master than the Bachelor degree) and start my career. I stayed there until the end of 2012 when I moved to Barcelona, a great place to enjoy live.
 
-During my professional career I worked for agencies, a browser games company, an internet translation company <https://tolingo.com>, a large social network <https://xing.com> a web development bootcamp <https://ironhack.com> and have been self-employed.
+During my professional career I worked for agencies, a browser games company, an internet translation company <https://tolingo.com>, a large social network <https://xing.com> a web development bootcamp <https://www.ironhack.com> and have been self-employed.
 
 While my role was usually that of a web developer, I also developed applications, designed and balanced the game mechanics of a football manager and taught and mentored aspiring web developers.
 
@@ -14,7 +14,7 @@ Previously, I worked with languages like Perl, PHP, Java and ActionScript. But s
 
 I like Ruby so much that I started teaching it to beginners. First through RailsGirls workshops in Hamburg and Barcelona (where I also organized both). Later through periodical meetups in Barcelona and as a (paid) teacher and mentor in the Ironhack Web Development Bootcamp. I am also one of the organizers of [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails), the local Ruby User Group.
 
-At the moment I do work for SolarisBank <https://solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
+At the moment I do work as a freelancer for SolarisBank <https://solarisbank.de> - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I work remotely from Barcelona.
 
 
 ## In case you want to hire me
@@ -23,16 +23,16 @@ I enjoy working in small companies with small development teams. This setup prom
 
 I do consider myself to be a product developer thinking of all parts of an implementation and not only 'my code'. I prefer to write simple, maintainable code and to find a good, pragmatic solution, instead of a complex one. When layers of abstractions or optimizations become necessary, they can be added at the right moment.
 
-I am a great communicator. Spreading information and connecting people comes natural to me. I do push my colleagues to share more. Be it through the group chat or in pull request descriptions or by creating new tickets. When I am in the office, I use the opportunity to connect with people outside of my team to learn more about the business in general. When I am remote, video chats help discussing complex matters.
+I am a strong communicator. Spreading information and connecting people comes natural to me. I do push my colleagues to share more. Be it through the group chat or in pull request descriptions or by creating new tickets. When I am in the office, I use the opportunity to connect with people outside of my team to learn more about the business in general. When I am remote, video chats help discussing complex matters.
 
-I am happy to work in a fully remote position. At home in Barcelona I have a great setup with standing desk, 4k screen, 200 MBit fibre connection and a sunny balcony. Now that summer is approaching I want to take advantage of living in Spain with a ‘Bulli’ and work [besides a beach](bulli_beach.jpg title="Playa de las Hurnas, Spain") or [in the mountains](bulli_montsec.jpg title="Montsec, Spain") from time to time - when there is a fast internet connection available.
+I am happy to work in a fully remote position. At home in Barcelona I have a great setup with standing desk, 4k screen, 200 MBit fibre connection and a sunny balcony. Now that summer is approaching I want to take advantage of living in Spain with a ‘Bulli’ and work [besides a beach](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_beach.jpg title="Playa de las Hurnas, Spain") or [in the mountains](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_montsec.jpg title="Montsec, Spain") from time to time - when there is a fast internet connection available.
 
 ## Most challenging development projects
 
 ### tolingo: integrating Salesforce CRM
   - replacing old PHP monolith
-  - new Rails customer facing app
-  - new Rails operators facing app
+  - new customer facing Rails app
+  - new operators facing Rails app
   - implementing a new payment solution
   - integrating Salesforce
   - Ruby services to glue internal and external apps together
@@ -49,10 +49,10 @@ I am happy to work in a fully remote position. At home in Barcelona I have a gre
   - accumulating existing data
   - creating a data structure optimized for query speed
   - displaying statistics to different user roles through a flexible interface
-  - challenging because of: development of the whole feature, finding a maintainable, fast solution without increasing the technical complexity of the whole project
+  - challenging because of: development of the whole feature, finding a maintainable and fast solution without increasing the technical complexity of the whole project
 
 ### solarisBank: ...?
-  - until now the banking regulations are the challenge, but we are working in some great services... ;-)
+  - until now the banking regulations, the fast changing infrastructure and architecture (from monolith to service based and Docker powered) are the challenges, but we are working on some great services... ;-)
 
 
 ## Links
