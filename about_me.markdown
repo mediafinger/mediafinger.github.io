@@ -14,9 +14,9 @@ Previously, I worked with languages like Perl, PHP, Java and ActionScript. But s
 
 I like Ruby so much that I started teaching it to beginners. First through RailsGirls workshops in Hamburg and Barcelona (where I also organized both). Later through periodical meetups in Barcelona and as a (paid) teacher and mentor in the Ironhack Web Development Bootcamp. I am also one of the organizers of [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails), the local Ruby User Group.
 
-The last 18 months I worked as a freelancer for solarisBank - a newly founded bank and tech company that offers financial products strictly over APIs. The main office is in Berlin, but I worked fully remote from Barcelona.
+From 2017 on, I worked 18 months as a freelancer for solarisBank - a newly founded bank and tech company that offers financial products strictly over APIs. Their main office is in Berlin and I worked fully remote from Barcelona. Afterwards I have been back for a few weeks at XING Barcelona to update their oldest and largest Ruby on Rails app to the latest Rails version 5.2, before joining Cookpad remotely, who have their (beautiful) office in Bristol, UK. In the four months with Cookpad I experienced a very dynamic working style where each team would start multiple small experiments each week. Small tweaks to UI, texts, features. Anything that could be measured and evaluated. Successful changes were kept and explored further, unsuccessful ones removed. In 2019 I worked on a project for VersaCommerce, a small e-commerce provider based in Hannover, Germany.
 
-> At the moment I'm on holidays and plan to start working from May 2018 on again. I did not sign a contract yet.
+> At the moment I'm on the lookout for interesting projects for 2019. I did not sign a contract yet.
 
 
 ## In case you want to hire me
@@ -62,6 +62,16 @@ I am happy to work in a fully remote position. At home in Barcelona I have a gre
   - connecting to a terrible XML (non SOAP) API (without good documentation)
   - following banking and data privacy regulations closely
   - challenging because of: constantly changing architecture, unstable API, time pressure to be the first on the market with a solution to identify businesses and their legal representatives in an online process
+
+### XING: Jobs app
+ - 10 weeks project with the single task to update to the latest Rails version
+ - XING's oldest and largest Ruby on Rails app, started more than 10 years ago on Rails 0.8
+ - it was running on outdated Ruby and Rails versions
+ - updating many (internal and external) dependencies, some of them deprecated
+ - removing monkey-patches and overrides of private Rails APIs that changed or got deleted
+ - rewriting tests of refactored code parts from minitest to rspec
+ - finished on time on with PRs for the latest Ruby and Rails versions and comprehensive documentation about the changes
+
 
 ## Links
 
