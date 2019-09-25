@@ -10,13 +10,13 @@ During my professional career I worked for agencies, a browser games company, an
 
 While my role was usually that of a web developer, I also developed applications, designed and balanced the game mechanics of a football manager and taught and mentored aspiring web developers.
 
-Previously, I worked with languages like Perl, PHP, Java and ActionScript. But since discovering Ruby in 2010 I have worked exclusively with Ruby - and all the other languages and DSLs that come with Ruby and Ruby on Rails applications.
+Previously, I worked with languages like Perl, PHP, Java and ActionScript. But since discovering Ruby in 2010 I have worked almost exclusively with Ruby - and all the other languages and DSLs that come with Ruby and Ruby on Rails applications.
 
 I like Ruby so much that I started teaching it to beginners. First through RailsGirls workshops in Hamburg and Barcelona (where I also organized both). Later through periodical meetups in Barcelona and as a (paid) teacher and mentor in the Ironhack Web Development Bootcamp. I am also one of the organizers of [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails), the local Ruby User Group.
 
-From 2017 on, I worked 18 months as a freelancer for solarisBank - a newly founded bank and tech company that offers financial products strictly over APIs. Their main office is in Berlin and I worked fully remote from Barcelona. Afterwards I have been back for a few weeks at XING Barcelona to update their oldest and largest Ruby on Rails app to the latest Rails version 5.2, before joining Cookpad remotely, who have their (beautiful) office in Bristol, UK. In the four months with Cookpad I experienced a very dynamic working style where each team would start multiple small experiments each week. Small tweaks to UI, texts, features. Anything that could be measured and evaluated. Successful changes were kept and explored further, unsuccessful ones removed. In 2019 I worked on a project for VersaCommerce, a small e-commerce provider based in Hannover, Germany.
+From 2017 on, I worked 18 months as a freelancer for solarisBank - a newly founded bank and tech company that offers financial products strictly over APIs. Their main office is in Berlin and I worked fully remote from Barcelona. Afterwards I have been back for a few weeks at XING Barcelona to single-handedly update their oldest and largest Ruby on Rails app to the latest Rails version 5.2, before joining Cookpad remotely, who have their (beautiful) office in Bristol, UK. In the four months with Cookpad I experienced a very dynamic working style where each team would start multiple small experiments each week. Small tweaks to UI, texts, features. Anything that could be measured and evaluated. Successful changes were kept and explored further, unsuccessful ones removed. In 2019 I worked for multiple clients, mostly for each in part-time as I had contracts in parallel.
 
-> At the moment I'm on the lookout for interesting projects for 2019. I did not sign a contract yet.
+> I am on the lookout for interesting long-term positions for 2020 and beyond.
 
 
 ## In case you want to hire me
@@ -27,14 +27,14 @@ I do consider myself to be a product developer thinking of all parts of an imple
 
 I am a strong communicator. Spreading information and connecting people comes natural to me. I do push my colleagues to share more. Be it through the group chat or in pull request descriptions or by creating new tickets. When I am in the office, I use the opportunity to connect with people outside of my team to learn more about the business in general. When I am remote, video chats help discussing complex matters.
 
-I am happy to work in a fully remote position. At home in Barcelona I have a great setup with standing desk, 4k screen, 200 MBit fibre connection and a sunny balcony. Now that summer is approaching I want to take advantage of living in Spain with a ‘Bulli’ and work [besides a beach](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_beach.jpg title="Playa de las Hurnas, Spain") or [in the mountains](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_montsec.jpg title="Montsec, Spain") from time to time - when there is a fast internet connection available.
+I am happy to work in a fully remote position. At home in Barcelona I have a great setup with standing desk, 4k screen, 200 MBit fibre connection and a sunny balcony. In the sunny months I take advantage of living in Spain and having a camper van to sometimes work [besides a beach](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_beach.jpg title="Playa de las Hurnas, Spain") or [in the mountains](https://raw.githubusercontent.com/mediafinger/mediafinger.github.io/master/bulli_montsec.jpg title="Montsec, Spain") - when there is a fast internet connection available.
 
 > Feel free to offer me _competitively compensated_ **remote** roles. I am registered as an autónomo (freelancer) in Spain.
 
 
 ## Most challenging development projects
 
-### tolingo: integrating Salesforce CRM
+### 2012 at tolingo: integrating Salesforce CRM
   - replacing old PHP monolith
   - new customer facing Rails app
   - new operators facing Rails app
@@ -43,27 +43,27 @@ I am happy to work in a fully remote position. At home in Barcelona I have a gre
   - Ruby services to glue internal and external apps together
   - challenging because of: the complexity of the task, developing new apps, integrating a large external application, big bang release (not the idea of the dev team)
 
-### XING: messages (over 1 billion existing threads)
+### 2013 at XING: messages (over 1 billion existing threads)
   - modeling the data structure
   - optimizing queries for speed
   - migrating from old Perl to new Ruby implementation without affecting the users
   - challenging because of: the sheer amount of data, the sensitivity of the data, the search results' speed and quality
 
-### XING: XTM statistics
+### 2014 at XING: XTM statistics
   - collecting usage data
   - accumulating existing data
   - creating a data structure optimized for query speed
   - displaying statistics to different user roles through a flexible interface
   - challenging because of: development of the whole feature, finding a maintainable and fast solution without increasing the technical complexity of the whole project
 
-### solarisBank: Business Identifications
+### 2017 at solarisBank: Business Identifications
   - extracting existing functionality out of a monolith while building a dockerized m/SOA architecture
   - adding new functionality in new services
   - connecting to a terrible XML (non SOAP) API (without good documentation)
   - following banking and data privacy regulations closely
   - challenging because of: constantly changing architecture, unstable API, time pressure to be the first on the market with a solution to identify businesses and their legal representatives in an online process
 
-### XING: Jobs app
+### 2018 at XING: Jobs app
  - 10 weeks project with the single task to update to the latest Rails version
  - XING's oldest and largest Ruby on Rails app, started more than 10 years ago on Rails 0.8
  - it was running on outdated Ruby and Rails versions
@@ -71,6 +71,12 @@ I am happy to work in a fully remote position. At home in Barcelona I have a gre
  - removing monkey-patches and overrides of private Rails APIs that changed or got deleted
  - rewriting tests of refactored code parts from minitest to rspec
  - finished on time on with PRs for the latest Ruby and Rails versions and comprehensive documentation about the changes
+
+### 2019 balancing multiple clients
+ - For the first time I am working in parallel for multiple clients
+ - Half of my time is spent maintaining and expanding a grown product with an ActiveAdmin-Rails app, a Sinatra-API, minitest, a mixture of fixtures and factories and a small remote team where all members work part-time
+ - The other half is spent on a well funded greenfield project with all the bells and whistles: latest Ruby and Rails versions, Rspec, Capybara, Docker, microservice architecture, Kubernetes, Helm, Kong, Prometheus and a fast growing team involving people from four different companies
+ - In both projects I work fully remote
 
 
 ## Links
