@@ -82,6 +82,7 @@ I am happy to work in a fully remote position. At home in Barcelona I have a gre
 ## Links
 
   - Twitter: [@mediafinger](https://twitter.com/mediafinger)
+  - Mastodon: <a rel="me" href="https://ruby.social/@mediafinger">@mediafinger@ruby.social</a>
   - LinkedIn: <https://www.linkedin.com/in/andreasfinger>
   - XING: <https://www.xing.com/profile/Andreas_Finger>
   - Github: [mediafinger](https://github.com/mediafinger)
